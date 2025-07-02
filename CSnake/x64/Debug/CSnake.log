@@ -1,0 +1,8 @@
+﻿  HelloWorld.cpp
+E:\CSnake\CSnake\HelloWorld.cpp(50,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\CSnake\CSnake\HelloWorld.cpp(50,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\CSnake\CSnake\HelloWorld.cpp(54,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\CSnake\CSnake\HelloWorld.cpp(55,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  CSnake.vcxproj -> E:\CSnake\x64\Debug\CSnake.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
